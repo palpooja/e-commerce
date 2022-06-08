@@ -10,3 +10,7 @@ USER:
 2 - User can view product
 3- user can add product to Cart
 4 - If final billing amount is greater than 10000then 500 OFF 
+
+How to Run a Program 
+1- open a VS CODE 
+2 - Open a terminal and run this file as python main.py 
